@@ -10,7 +10,7 @@
 ![Alt text](./etoosimg/SignPage.JPG)
 
 ## Search Page
-![Alt text](./etoosimg/SignPage.JPG)
+![Alt text](./etoosimg/SearchPage.JPG)
 
 ## Consult Page
-![Alt text](./etoosimg/SignPage.JPG)
+![Alt text](./etoosimg/ConsultPage.JPG)
