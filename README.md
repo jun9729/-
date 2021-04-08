@@ -4,5 +4,5 @@
 ![Alt text](./etoosimg/LoginPage.JPG)
 
 ## Sign up
-![Alt text](./etoosimg/LoginPage.JPG)
+![Alt text](./etoosimg/SignPage.JPG)
 
