@@ -1,4 +1,4 @@
-# 학원 종합 상담페이지
+# 다녔던 재수학원 종합 상담페이지 제작
 
 ## Login Page
 ![Alt text](./etoosimg/LoginPage.JPG)
