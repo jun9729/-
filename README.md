@@ -1,5 +1,3 @@
-## Login Page
-![Alt text](./etoosimg/LoginPage.JPG)
 
 ## Sign up Page
 ![Alt text](./etoosimg/SignPage.JPG)
